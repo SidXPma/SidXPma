@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hey, I'm Macpie
 
-<!--
-**SidXPma/SidXPma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior AI Engineer | 4+ Years Experience  
+🧠 Building scalable AI systems & exploring the future of intelligence  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+- 🔭 Currently working as a **Senior AI Engineer**
+- 🧠 Strong in **Deep Learning, LLMs & MLOps**
+- 🚀 Passionate about **high-performance AI & distributed systems**
+  
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- Python
+- SQL
+- Bash
+
+### 🤖 AI / ML
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- LLMs (Transformers, Fine-tuning)
+
+### ⚙️ DevOps & Cloud
+- Docker
+- CI/CD Pipelines
+- Azure / AWS
+
+### 🧩 Backend
+- Django
+- REST APIs
+- Microservices
+
+---
+
+## 📊 What I'm Focused On
+- 🚀 Scaling AI systems to production
+- 🧠 Optimizing LLM performance
+- ⚡ High-performance computing & GPU acceleration
+- 🔥 Building real-world impactful AI products
+
+---
+
+## ⚡ Fun Fact
+I’m not just building AI… I’m preparing for the future where AI builds everything 😏
